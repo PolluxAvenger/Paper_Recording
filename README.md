@@ -6,3 +6,6 @@
 
 ## Identifying Encrypted Malware Traffic with Contextual Flow Data
 思科关于如何在加密流量中检测恶意流量的工作
+
+## Digtool：A Virualiztion-Based Framework for Detecting Kernel Vulnerabilities
+360 基于虚拟化实现的二进制内核漏洞检测工具
