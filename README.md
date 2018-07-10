@@ -15,3 +15,6 @@
 
 ## syzkaller: an unsupervised, coverage-guided kernel fuzzer
 Google 开发的基于覆盖度的内核模糊测试工具
+
+## evolution of kernel fuzzing
+有关内核模糊测试工具的进化之路
