@@ -27,3 +27,6 @@ Google 开发的基于覆盖度的内核模糊测试工具
 
 ## AFLGo: Directed Greybox Fuzzing
 导向型灰盒模糊测试的一个尝试，代码已合并到谷歌的 OSS 项目中
+
+## Angora: Efficient Fuzzing by Principled Search
+不使用富豪执行而是使用机器学习中的梯度下降算法来解决路径约束，加上字节级的污点分析来提升覆盖度
