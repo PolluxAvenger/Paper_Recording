@@ -18,3 +18,12 @@ Google 开发的基于覆盖度的内核模糊测试工具
 
 ## evolution of kernel fuzzing
 有关内核模糊测试工具的进化之路
+
+## LAVA: Large-scale Automated Vulnerability Addition
+通过自动漏洞注入技术形成的漏洞挖掘效果评估数据集，已被多篇顶会论文用作对比数据集
+
+## AFLfast: Coverage-based Greybox Fuzzing as Markov Chain
+通过马尔科夫链结合多种策略来优选执行低频路径的样本，从而提升 AFL 的覆盖率
+
+## AFLGo: Directed Greybox Fuzzing
+导向型灰盒模糊测试的一个尝试，代码已合并到谷歌的 OSS 项目中
